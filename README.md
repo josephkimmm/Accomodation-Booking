@@ -5,6 +5,22 @@
 
 저기어때는 콘솔 기반의 숙박 예약 및 사용자 관리 시스템으로, 자바를 활용한 토이 프로젝트입니다. 실제 웹 또는 모바일 기반 숙박 플랫폼에서 제공하는 회원가입, 로그인, 예약, 포인트 관리 등 핵심 기능을 구현하여 학습 목적의 클론 프로젝트로 개발되었습니다.
 
+# 📅 프로젝트 진행 기간
+
+> 2025.01.06 ~ 2025.01.10(6일)
+
+# 🛠️ 사용 기술 (Tech Stack)
+
+- **Language:** Java (JDK 11)
+- **Data Persistence:** File I/O (텍스트 파일 기반 데이터 저장/수정)
+- **Tool:** Eclipse IDE
+
+---
+
+# 👥 프로젝트 인원
+
+- 총 4명
+
 🧑‍💻 담당 기능: 마이페이지 (MyPageService)
 제가 맡은 부분은 사용자 마이페이지 기능이며, 핵심 구현 내용은 다음과 같습니다:
 
@@ -29,6 +45,22 @@ ID 중복 검사 및 유효성 체크: 회원가입 시 기존 회원 목록을 
 🧾 Overview
 
 JeogiOttae is a Java console-based clone project inspired by accommodation booking services. This project was developed for educational purposes and includes core features such as user registration, login, booking, point management, and account editing.
+
+# 📅 Project period
+
+> 2025.01.06 ~ 2025.01.10(6 days)
+
+# 🛠️ Tech Stack
+
+- **Language:** Java (JDK 11)
+- **Data Persistence:** File I/O
+- **Tool:** Eclipse IDE
+
+---
+
+# 👥 The number of people
+
+- Total 4 teammates
 
 👨‍💻 My Role: My Page Service
 I was responsible for implementing the My Page module, which includes:
